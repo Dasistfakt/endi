@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>Welcome to my site</title>
     <link>https://endicatt.ru/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on Welcome to my site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2019 01:06:13 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 03:30:07 +0300</lastBuildDate>
     
 	<atom:link href="https://endicatt.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Koalas</title>
+      <link>https://endicatt.ru/koalas/</link>
+      <pubDate>Fri, 20 Dec 2019 03:30:07 +0300</pubDate>
+      
+      <guid>https://endicatt.ru/koalas/</guid>
+      <description>The koala is an arboreal herbivorous marsupial native to Australia. It is the only extant representative of the family Phascolarctidae and its closest living relatives are the wombats, which comprise the family Vombatidae.
+The koala is found in coastal areas of the mainland&#39;s eastern and southern regions, inhabiting Queensland, New South Wales, Victoria, and South Australia. It is easily recognisable by its stout, tailless body and large head with round, fluffy ears and large, spoon-shaped nose.</description>
+    </item>
+    
+    <item>
+      <title>Anteaters</title>
+      <link>https://endicatt.ru/anteaters/</link>
+      <pubDate>Fri, 20 Dec 2019 03:12:21 +0300</pubDate>
+      
+      <guid>https://endicatt.ru/anteaters/</guid>
+      <description>The giant anteater (Myrmecophaga tridactyla), also known as the ant bear, is an insectivorous mammal native to Central and South America.
+It is one of four living species of anteaters, the only extant member of the genus Myrmecophaga, and is classified with sloths in the order Pilosa.
+This species is mostly terrestrial, in contrast to other living anteaters and sloths, which are arboreal or semiarboreal.
+The giant anteater is the biggest of its family, 182 to 217 cm (5.</description>
+    </item>
     
     <item>
       <title>Cats</title>
